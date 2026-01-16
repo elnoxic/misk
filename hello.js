@@ -1,1 +1,1 @@
-console.log(new Master)
+console.log(branch1)
